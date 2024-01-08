@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-love-50_base</title>
+    <g id="icon-love-50_base" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(12.192388, 4.000000)">
+            <line x1="13" y1="31" x2="13" y2="41" id="Path-16" stroke="#E6F3E8"></line>
+            <polygon id="Rectangle" fill="#E6F3E8" points="13 0 16 7 13 5 10 7"></polygon>
+            <circle id="Oval" fill="#E6F3E8" cx="13" cy="39" r="3"></circle>
+            <circle id="Oval" fill="#E6F3E8" cx="24" cy="32" r="1"></circle>
+            <circle id="Oval" fill="#E6F3E8" cx="24" cy="10" r="1"></circle>
+            <circle id="Oval" fill="#E6F3E8" cx="13" cy="12" r="2"></circle>
+            <circle id="Oval" fill="#E6F3E8" cx="1" cy="32" r="1"></circle>
+            <circle id="Oval" fill="#E6F3E8" cx="1" cy="10" r="1"></circle>
+            <path d="M4.95847316,26.945303 C6.78020794,29.4052806 9.70387063,31 13,31 C16.2961294,31 19.2197921,29.4052806 21.0415268,26.945303" id="Path" stroke="#E6F3E8"></path>
+        </g>
+    </g>
+</svg>
